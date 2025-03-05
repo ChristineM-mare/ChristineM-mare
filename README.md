@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christinem-mare&label=Profile%20views&color=0e75b6&style=flat" alt="christinem-mare" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christinem-mare" alt="christinem-mare" /></a> </p>
-
 - 🔭 I’m currently working on **Digital Portfolio Website**
 
 - 🌱 I’m currently learning **React, Tailwind CSS , Django**
